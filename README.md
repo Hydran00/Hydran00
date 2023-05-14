@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Davide Nardi
+ 🤖 Master's student in Artificial Intelligence Systems in Univerity of Trento
 
 <!--
 **Hydran00/Hydran00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydran00&layout=donut&theme=buefy&hide=shaderlab,c++&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydran00&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
