@@ -6,3 +6,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydran00&layout=donut&theme=buefy&hide=shaderlab,c++&langs_count=10)](https://github.com/Hydran00)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hydran00)](https://github.com/ryo-ma/github-profile-trophy)
